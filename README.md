@@ -3,4 +3,4 @@
 Resources
 
 ## ScreenShots
-<img src="https://imgur.com/ypNneiP.gif" width="400" height="700" />
+<img src="https://imgur.com/5FMwtHZ.gif" width="400" height="700" />
